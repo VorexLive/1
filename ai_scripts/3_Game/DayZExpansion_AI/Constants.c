@@ -1,1 +1,0 @@
-static const string EXPANSION_AI_LOOTDROPS_FOLDER = EXPANSION_AI_FOLDER + "LootDrops\\";
